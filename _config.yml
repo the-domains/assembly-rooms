@@ -1,0 +1,14 @@
+layout_spectrum: 0.3172043
+typography_spectrum: 0.6541219
+color:
+  saturation: 0.1453356
+  lightness: 0.1661542
+  brandStrength: 1
+  brandColors:
+    - '#89644B'
+    - '#171417'
+    - '#BEBCAC'
+    - '#FFFFFC'
+    - '#FFEB30'
+  rhythmicContrast: 0.1116282
+name: Assembly rooms
